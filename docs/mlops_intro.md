@@ -3,11 +3,13 @@
 MLOps community
 ---
 `An open community to discuss MLOps`
+* MLOpsKR - https://speakerdeck.com/mlopskr
+* MLOps KR | Facebook - https://www.facebook.com/groups/MLOpsKR/ 
 * MLOps.community  - https://medium.com/mlops-community 
   - MLOps vs DevOps. What’s the difference? ([link](https://medium.com/mlops-community/mlops-vs-devops-whats-the-difference-60678e628756))
   - Engineering Lab #1 — TEAM 1: A MLOps Tale about operationalising MLFlow and PyTorch - ([link](https://medium.com/mlops-community/engineering-lab-1-team-1-a-mlops-tale-about-operationalising-mlflow-and-pytorch-62193b55dc19))
   - <img src="https://miro.medium.com/max/2400/0*nLUwrL91z_5wRFSl" width=40%>, <img src="https://miro.medium.com/max/2400/0*IFe4VYTUqa1vVtLq" width=45%>
-* MLOps KR | Facebook - https://www.facebook.com/groups/MLOpsKR/ 
+
 
 Global Cloud Company
 ---
@@ -20,9 +22,17 @@ Global Cloud Company
 * Google 
   - MLOps 기반의 주요 요구사항 - [link](https://cloud.google.com/blog/ko/products/ai-machine-learning/key-requirements-for-an-mlops-foundation)
 
+
+MLOps 교육/강의 
+---
+* Full Stack Deep Learning - https://fullstackdeeplearning.com/
+* Machine Learning Engineering for Production (MLOps) 특화 과정 - [coursera](https://ko.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
+* 송호연님 머신러닝 엔지니어 실무 - [유료](https://www.inflearn.com/course/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-%EC%8B%A4%EB%AC%B4)
+
 MLOps 설명글
 ---
 * 머신러닝 오퍼레이션 자동화(2018, 2021업) - https://zzsza.github.io/mlops/2018/12/28/mlops/ 
+* 앤드류 응 교수가 말하는 MLOps(May 2021) -  https://brunch.co.kr/@synabreu/137
 
 MLOps 플랫폼 
 ---
