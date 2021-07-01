@@ -5,6 +5,11 @@
 * [MLOps](./docs/mlops_intro.md)
 * ML/DevOps Platform  
 
+[DX: Digitial Transformation]
+---
+* [DX](./docs/dx_.md)
+* [CDO](./docs/cdo_.md)
+
 [Tech Blog]
 ---
 * [Tech Company 기술 블로그 모음](./docs/TechBlog.md) : `IT기업 기술 블로그 모음, 기술 콘텐츠 플랫폼` 
