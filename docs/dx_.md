@@ -15,8 +15,9 @@ DX Trend
 DX Case
 ---
 
-역량 
----
+DBR 
+--- 
 * 디지털역량+조직 리더십 CDO - [Article](https://dbr.donga.com/article/view/1401/article_no/7714/ac/magazine)
   - 디지털 관련 전략목표를 과감하고 구체적으로 / 고객 데이터 분석에 대한 집착 / 계획은 유연하게, 실행은 단호하게, / 조직 내외부에서 자기 편을 / 단기간에 성과를 보여줄 수 있어야 
   - 1) 디지털을 전략의 필수 요소로, 2) 고객에 대해 집착하기, 3) 스피드와 유연성, 데이터 확보하기, 4) 네트워크 확대하기, 5) 임무 완수
+* 빅데이터 시대 생존 위한 CDO의 역할? - [Article](https://dbr.donga.com/article/view/1206/article_no/6934/ac/magazine)
