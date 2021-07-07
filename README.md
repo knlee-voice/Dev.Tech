@@ -3,8 +3,8 @@
 ---
 * DevOps 
 * [MLOps](./docs/mlops_intro.md)
-* [AI 플랫폼](./docs/aip.md) (ML/DevOps Platform)
-* [Cloud 기반 AI 개발 플랫폼](./docs/csp_aip.md)
+* [AI 플랫폼](./docs/aip.md) (ML/DevOps 플랫폼, Cloud 기반 AI 개발 플랫폼)
+
 
 [DX: Digitial Transformation]
 ---
