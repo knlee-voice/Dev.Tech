@@ -11,8 +11,9 @@
 * [DX](./docs/dx_.md)
 * [CDO](./docs/cdo_.md)
 
-[Tech Blog]
+[Tech Report & Blog]
 ---
+* [Tech Trends Report](./docs/TrendsReport.md) : `IITP 정책보고서 한국인터넷진흥원 등` 
 * [Tech Company 기술 블로그 모음](./docs/TechBlog.md) : `IT기업 기술 블로그 모음, 기술 콘텐츠 플랫폼` 
 * 기술 중심 개발자 채용 플랫폼 - https://programmers.co.kr/
 
