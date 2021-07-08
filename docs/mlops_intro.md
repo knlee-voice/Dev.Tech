@@ -17,6 +17,9 @@ Global Cloud Company
   - Machine learning operations (MLOps) framework to upscale machine learning Lifecycle with Azure Machine Learning - ([link](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/mlops/mlops-technical-paper))
   - MLOps: Continuous Delivery for Machine Learning on AWS(Dec. 2020) - [pdf](https://d1.awsstatic.com/whitepapers/mlops-continuous-delivery-machine-learning-on-aws.pdf)
   - Azure Machine Learning을 사용한 Python용 MLOps 모델 - [link](https://docs.microsoft.com/ko-kr/azure/architecture/reference-architectures/ai/mlops-python)
+  - Azure Machine Learning을 사용하여 기계 학습 수명 주기를 업스케일링하는 MLOps 프레임워크 - [link](https://docs.microsoft.com/ko-kr/azure/architecture/example-scenario/mlops/mlops-technical-paper)
+<img src="https://docs.microsoft.com/ko-kr/azure/architecture/example-scenario/mlops/media/data-science-lifecycle-diag.png" width="70%">
+
 * AWS 
   - AWS MLOps Framework - https://aws.amazon.com/ko/solutions/implementations/aws-mlops-framework/ 
 * Google 
@@ -33,6 +36,7 @@ MLOps 설명글
 ---
 * 머신러닝 오퍼레이션 자동화(2018, 2021업) - https://zzsza.github.io/mlops/2018/12/28/mlops/ 
 * 앤드류 응 교수가 말하는 MLOps(May 2021) -  https://brunch.co.kr/@synabreu/137
+* [ITFIND] 기계학습 운영화(MLOps) 실행 전략 (2021.02) - [소개](https://www.itfind.or.kr/publication/regular/weeklytrend/pastList/read.do?selectedId=1168&selectedCategory=B_ITA_01&pageSize=50&pageIndex=0), [파일](https://www.itfind.or.kr/publication/regular/weeklytrend/weekly/view.do?boardParam1=8089&boardParam2=8089)
 
 MLOps 플랫폼 
 ---
