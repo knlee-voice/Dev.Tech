@@ -9,8 +9,10 @@ MLOps community
   - MLOps vs DevOps. What’s the difference? ([link](https://medium.com/mlops-community/mlops-vs-devops-whats-the-difference-60678e628756))
   - Engineering Lab #1 — TEAM 1: A MLOps Tale about operationalising MLFlow and PyTorch - ([link](https://medium.com/mlops-community/engineering-lab-1-team-1-a-mlops-tale-about-operationalising-mlflow-and-pytorch-62193b55dc19))
   - <img src="https://miro.medium.com/max/2400/0*nLUwrL91z_5wRFSl" width=40%>, <img src="https://miro.medium.com/max/2400/0*IFe4VYTUqa1vVtLq" width=45%>
-
-
+* MLOps-Basics by Raviraja Ganta - https://github.com/graviraja/MLOps-Basics (10 weeks contents)
+  - The goal of the series is to understand the basics of MLOps like model building, monitoring, configurations, testing, packaging, deployment, cicd, etc.
+  - <img src="https://github.com/graviraja/MLOps-Basics/raw/main/images/summary.png" width=60%>
+                                                                                           
 Global Cloud Company
 ---
 * Microsoft Azure
