@@ -21,6 +21,7 @@
 * 리디 Tech blog - https://www.ridicorp.com/story-category/tech-blog/
 * 우아한형제들 기술 블로그 - https://woowabros.github.io/
 * 드라마&컴퍼니 - https://blog.dramancompany.com/
-
+* '네이버 클라우드 플랫폼'의 기술과 고객 스토리 - [블로그](https://blog.naver.com/prologue/PrologueList.naver?blogId=n_cloudplatform) | [상품서비스](https://blog.naver.com/PostList.naver?blogId=n_cloudplatform&from=postList&categoryNo=1&parentCategoryNo=1) - [AI](https://blog.naver.com/PostList.naver?blogId=n_cloudplatform&categoryNo=20&from=postList)
+* 네이버 CLOVA Engineering Blog - https://engineering.clova.ai/ 
 ---
 * Google Developers - https://developers.googleblog.com/
