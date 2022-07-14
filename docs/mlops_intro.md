@@ -38,7 +38,8 @@ MLOps 교육/강의
 MLOps 설명글
 ---
 * ('22.5) Machine Learning Operations(MLOps): Overview, Definition, and Architecture - https://arxiv.org/abs/2205.02302
-* <img src="https://pbs.twimg.com/media/FXQdIGiUYAAOXLw.png" width="40%">
+  - Figure 3. <img src="https://pbs.twimg.com/media/FXQdIGiUYAAOXLw.png" width="40%">
+  - Figure 4. End-to-end MLOps architecture and workflow with functional components and roles
 * 머신러닝 오퍼레이션 자동화(2018, 2021업) - https://zzsza.github.io/mlops/2018/12/28/mlops/ 
 * 앤드류 응 교수가 말하는 MLOps(May 2021) -  https://brunch.co.kr/@synabreu/137
 * [ITFIND] 기계학습 운영화(MLOps) 실행 전략 (2021.02) - [소개](https://www.itfind.or.kr/publication/regular/weeklytrend/pastList/read.do?selectedId=1168&selectedCategory=B_ITA_01&pageSize=50&pageIndex=0), [파일](https://www.itfind.or.kr/publication/regular/weeklytrend/weekly/view.do?boardParam1=8089&boardParam2=8089)
